@@ -2,7 +2,7 @@
 Bu repo [Kodluyoruz ](https://www.kodluyoruz.org/) Git Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet index.html barindiyor.
 
 
-![projectss](~/kodluyoruzilkrepo/img/ss.png)
+![projectss](https://github.com/gokhanyavas/kodluyoruzilkrepo/blob/main/img/ss.png)
 
 
 ## Installation 
